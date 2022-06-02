@@ -1,0 +1,8 @@
+// npx jest --watchAll
+>> Live testing
+
+// npm test --coverage
+>> By default, this saves a report to a coverage directory and shows a summary in the console.
+
+// npm test -- --coverage --coverageReporters=text
+>> To just get that summary output.
